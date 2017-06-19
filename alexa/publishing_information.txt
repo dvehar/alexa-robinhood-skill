@@ -1,0 +1,12 @@
+Category: Business & Finance
+Testing Instructions: You will need a Robinhood account to properly test. An account can be obtained for free from https://robinhood.com/.
+Countries & Region: In all countries and regions where Amazon distributes skills
+Short Skill Description: The Unofficial Robinhood Skill allows you to get updates about the market and your portfolio.
+Full Skill Description: You need to have a Robinhood account before using this skill. You can create an account for free at https://robinhood.com/.
+
+This skill can tell you how much a stock is trading for, give you updates from Robinhood, and tell you how much you have lost/made.
+Example Phrases:
+	1) Alexa, ask Robinhood to give me my updates.
+	2) Alexa, ask Robinhood how much have I made today?
+	3) Alexa, ask Robinhood what Apple is trading for?
+Keywords: Robinhood, Stock, Trading, Finance, Money, Cash, Profit, Skill, App

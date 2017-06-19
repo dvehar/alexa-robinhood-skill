@@ -1,0 +1,6 @@
+Service Endpoint Type: AWS Lambda ARN (Amazon Resource Name)
+Do you allow users to create an account or link to an existing account with you?: Yes
+Authorization URL: https://alexa-robinhood-skill-login.herokuapp.com/
+Authorization Grant Type: Implicit Grant
+Permissions: N/A
+Privacy Policy URL: https://alexa-robinhood-skill-login.herokuapp.com/

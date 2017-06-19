@@ -1,0 +1,2 @@
+GetRandomMotivationQuote for a quote
+GetRandomMotivationQuote for a motivational quote
