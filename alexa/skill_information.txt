@@ -1,0 +1,3 @@
+Name: Robinhood (Unofficial)
+Invocation Name: robinhood
+Audio Player: No
